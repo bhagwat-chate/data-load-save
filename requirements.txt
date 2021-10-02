@@ -1,6 +1,6 @@
-pandas
-sklearn
 dvc
+pandas
+scikit-learn
 
 # Local package installation
--e.
+-e .
