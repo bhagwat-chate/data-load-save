@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+dvc
+
+# Local package installation
+-e.
