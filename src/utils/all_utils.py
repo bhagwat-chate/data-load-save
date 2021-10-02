@@ -6,3 +6,4 @@ def read_yaml(path_to_yaml: str) -> dict:
         content = yaml.safe_load(yaml_file)
 
     return content
+
